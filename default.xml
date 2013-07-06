@@ -389,9 +389,9 @@
 
   <!-- DLX added -->
 
-  <project path="device/htc/dlx" name="CM10DNA/android_device_htc_dlx" revision="cm-10.1-chad" remote="CM10DNA" />
-  <project path="kernel/htc/dlx-3.4" name="CM10DNA/android_kernel_htc_dlx" revision="cm-10.1-chad" remote="CM10DNA" />
-  <project path="vendor/htc/dlx" name="crpalmer/android_vendor_htc_dlx" revision="cm-10.1-chad" remote="crpalmer" />
+  <project path="device/htc/dlx" name="crpalmer/android_device_htc_dlx" revision="aokp-jb-mr1" remote="crpalmer" />
+  <project path="kernel/htc/dlx" name="CM10DNA/android_kernel_htc_dlx" revision="cm-10.1-chad" remote="CM10DNA" />
+  <project path="vendor/htc/dlx" name="CM10DNA/android_vendor_htc_dlx" revision="cm-10.1-chad" remote="CM10DNA" />
 
   <!-- DLX Modified -->
 
